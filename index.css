@@ -58,9 +58,13 @@ body{
 nav{
     text-align: left !important;
     color: white;
+    
  
 }
-
+a{
+    text-decoration: none;
+    color: white;
+}
 .last-link{
     text-decoration: none;
     color: grey;
