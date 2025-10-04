@@ -26,6 +26,7 @@ img{
     border-radius: 3px;
     border: 3px solid rgb(0, 174, 255);
     object-fit: cover;
+    max-height: 250px;
 }
 
 body{
