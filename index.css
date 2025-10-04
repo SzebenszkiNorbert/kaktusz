@@ -57,7 +57,15 @@ body{
 }
 nav{
     text-align: left !important;
+    color: white;
  
+}
+
+.last-link{
+    text-decoration: none;
+    color: grey;
+    background-color: aqua;
+    border-radius: 12px;
 }
 
 @media screen and (max-width: 600px) {
