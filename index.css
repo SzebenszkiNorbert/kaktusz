@@ -14,8 +14,8 @@
     grid-template-columns: repeat(3, 1fr);
     gap: 1rem;
     min-height: 100vh;
-    padding: 20px;
-
+    padding-top: 15px;
+    padding-bottom: 15px;
     
 }
 
@@ -43,15 +43,16 @@ body{
      border-radius: 3px;
  border: 3px solid rgb(0, 174, 255);
 
+
     
    
 }
 .lentebb{
-     background-color: rgb(0, 85, 182);
+     /* background-color: rgb(0, 85, 182);
      padding: 5px 8px 8px 5px;
 
      border-radius: 5px;
-     text-align: center;
+     text-align: center; */
  
 }
 
@@ -72,6 +73,9 @@ body{
     font-size: 22px;
     font-weight: 600;
     border:  1px solid gainsboro;
+}
+nav{
+    text-align: left !important;
 }
 
 @media screen and (max-width: 600px) {
